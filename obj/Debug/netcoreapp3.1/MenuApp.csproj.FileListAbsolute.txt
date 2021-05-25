@@ -1,0 +1,13 @@
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.exe
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.deps.json
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.runtimeconfig.json
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.runtimeconfig.dev.json
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.dll
+C:\Users\Fabri\source\repos\MenuApp\bin\Debug\netcoreapp3.1\MenuApp.pdb
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.csprojAssemblyReference.cache
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.AssemblyInfoInputs.cache
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.AssemblyInfo.cs
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.dll
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.pdb
+C:\Users\Fabri\source\repos\MenuApp\obj\Debug\netcoreapp3.1\MenuApp.genruntimeconfig.cache

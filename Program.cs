@@ -1,12 +1,14 @@
 ﻿using System;
+using MenuApp;
 
 namespace MenuApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            Startup startup = new Startup();
+            startup.getStarted();
+        }        
     }
 }
